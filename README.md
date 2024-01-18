@@ -8,7 +8,7 @@ Self-taught and obsessed with details, I'm conquering **full stack web developme
 - I started with: <br>
   ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?logo=javascript&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
   
 - I'm currently learning: <br>
   ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=white)

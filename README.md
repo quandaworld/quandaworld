@@ -3,7 +3,7 @@
 
 ### Hi, I'm Quan - an enthusiastic learner and programmer 👋
 
-Self-taught and obsessed with details, I'm conquering **full stack web development** one organized line at a time.
+Self-taught and obsessed with details, I'm conquering **software engineering** one organized line at a time.
 
 - I started with: <br>
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)

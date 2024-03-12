@@ -11,15 +11,15 @@ Self-taught and obsessed with details, I'm conquering **software engineering** o
   ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
   
 - I'm currently learning: <br>
-  ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/TAILWIND%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=MONGODB&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/TAILWIND%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 - I plan to learn: <br>
-  ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=POSTGRESQL&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)

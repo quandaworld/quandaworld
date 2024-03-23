@@ -32,4 +32,5 @@ Self-taught and obsessed with details, I'm conquering **software engineering** o
   ![Static Badge](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Hostinger-%23673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white)
 

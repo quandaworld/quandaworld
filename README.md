@@ -16,6 +16,7 @@ Self-taught and obsessed with details, I'm conquering **software engineering** o
   ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/EJS-%23B4CA65?style=for-the-badge&logo=ejs&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/TAILWIND%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=POSTGRESQL&logoColor=white)
